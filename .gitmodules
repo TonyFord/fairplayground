@@ -1,0 +1,3 @@
+[submodule "fairplayground_api"]
+	path = fairplayground_api
+	url = https://github.com/TonyFord/fairplayground_api.git
