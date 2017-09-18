@@ -1,3 +1,9 @@
 [submodule "fairplayground_api"]
 	path = fairplayground_api
 	url = https://github.com/TonyFord/fairplayground_api.git
+[submodule "fairplayground_statistics"]
+	path = fairplayground_statistics
+	url = https://github.com/TonyFord/fairplayground_statistics.git
+[submodule "fairplayground_map"]
+	path = fairplayground_map
+	url = https://github.com/TonyFord/fairplayground_map.git
